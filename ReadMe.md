@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou Estudante de Programação - Full Stack - disponibilizando aqui meu projetos de estudos.
+Sou Estudante de Programação - Full Stack - disponibilizando aqui meus projetos de estudos.
 
 
 ## 🌐 Socials:
