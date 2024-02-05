@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Sou Estudante de Programação - Full Stack - disponibilizando aqui meus projetos de estudos.
 
 
