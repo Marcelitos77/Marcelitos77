@@ -1,5 +1,7 @@
 # 💫 Sobre mim:
-Sou Estudante de Programação - Full Stack - disponibilizando aqui meus projetos de estudos.
+Estudante de Programação - Full Stack - DevsTars;
+Estudante de Desenvolvimento de Software Multiplataforma - Fatec.
+Disponibilizando aqui meus projetos de estudos.
 
 
 ## 🌐 Sociais:
