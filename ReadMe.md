@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Estudante de Análise e desenvolvimento de Sistemas - Uninter.
+Estudante de Análise e Desenvolvimento de Sistemas - Uninter.
 Disponibilizando aqui meus projetos de estudos.
 
 
