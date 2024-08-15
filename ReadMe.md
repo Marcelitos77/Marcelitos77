@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-Estudante de Desenvolvimento de Software Multiplataforma - Fatec.
+Estudante de Análise e desenvolvimento de Sistemas - Uninter.
 Disponibilizando aqui meus projetos de estudos.
 
 
